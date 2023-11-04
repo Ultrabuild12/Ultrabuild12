@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ultrabuild12
+- 👀 I’m interested in Game and Discord Bot Development
+- 🌱 I’m currently learning Discord Bot Development
